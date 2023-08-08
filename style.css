@@ -27,7 +27,7 @@ h1 {
 .seccion-oscura /*funcion donde cambiamos el color de la parte "conoce a*/
 {
   color: white;
-  background-color: #a788ab;
+  background-color: #71574e;
 }
 
 .seccion-clara {
@@ -54,8 +54,8 @@ h1 {
 {
   font-size: 1.1rem;
   margin: 20px;
-  background-color: rgb(196, 86, 208); 
-  border-color: rgb(196, 86, 208) ;
+  background-color: rgb(144,138,106); 
+  border-color: rgb(144,138,106) ;
 }
 
 .texto-negro {
@@ -67,7 +67,7 @@ h1 {
 }
 
 .Typewriter__cursor {
-  color: #af4b80 !important;
+  color: #494546 !important;
 }
 
 /* Seccion Hero */
@@ -90,7 +90,7 @@ h1 {
 
 .hero-principal h2 {
   font-size: 1.5rem;
-  color: #b691d2;
+  color: #9195d2;
 }
 
 /* Sobre mi */
@@ -123,12 +123,12 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #442458 ;
+  background-color: #908a6a ;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #9a0cbe;
+  color: #adb990;
   background-color: #0a0a23 ;
   padding: 8px 19px;
   border-radius: 50%;
@@ -148,7 +148,7 @@ h1 {
 
 .badge {
   margin: 5px;
-  background-color: rgb(196, 86, 208);
+  background-color: #695e3e;
 }
 
 /* Proyectos */
@@ -275,7 +275,7 @@ h1 {
 .contacto .rectangulo /*cambiar el color del rectangulo de "Hablemos"*/
 {
   margin-top: -5rem;
-  background-color: rgb(98, 62, 118); /*tambien se puede poner color hexadecimal*/
+  background-color: #756e56; /*tambien se puede poner color hexadecimal*/
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -357,7 +357,7 @@ footer {
 
 .iconos-redes-sociales a:hover {
   background-color: white;
-  border: 2px solid rgb(146, 85, 153);
+  border: 2px solid #b39174;
 }
 
 .iconos-redes-sociales a:hover i {
